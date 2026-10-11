@@ -1,4 +1,3 @@
 # Praktikum-Jaringan-Komputer
 
-Playlist Video:
-[text](https://youtu.be/6ruPqgB1trM?si=aVpxHNuKoQ0nICUp)
+[Playlist Video](https://www.youtube.com/playlist?list=PLbvC9SMtz2C8)
