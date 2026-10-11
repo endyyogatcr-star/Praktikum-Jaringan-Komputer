@@ -1,3 +1,3 @@
 Video Penjelasan VLAN dan Trunk Serta Crimping kabel UTP (LAN)
 
-[text](https://youtu.be/gM3BjK1TjrE)
+[VLAN dan Trunk || Crimping kabel UTP](https://youtu.be/gM3BjK1TjrE)
